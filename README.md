@@ -8,3 +8,4 @@ MyArduinoProjectCode
  This was built using an Arduino Mega 2560
  
  
+The code file is a .ino that you open with the Arduino IDE downloaded from Arduino website.
